@@ -82,11 +82,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Laravel-advance
-                </div>
-                <div>
-                <li>list</li>
-                <li>Type</li>
-                </div>
+        </div>
 
 
             </div>
